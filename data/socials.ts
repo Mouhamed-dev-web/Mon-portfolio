@@ -15,7 +15,7 @@ export type SocialLink = {
 export const socialLinks: SocialLink[] = [
   {
     label: "GitHub",
-    href: "https://github.com/",
+    href: "https://github.com/Mouhamed-dev-web",
     icon: FaGithub,
   },
   {
@@ -25,7 +25,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     label: "Instagram",
-    href: "https://www.instagram.com/rassoul_niang2209?igsi=MWZoNjA4NHM2NHE3dQ%3D%3D&utm_source=qr",
+    href: "https://www.instagram.com/rassoul_conceptor?stkn=eG9raHdqc21xaDJm&utm_source=qr",
     icon: FaInstagram,
   },
   {
